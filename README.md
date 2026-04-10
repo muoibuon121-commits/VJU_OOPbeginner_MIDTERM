@@ -24,9 +24,4 @@ Dự án áp dụng triệt để các nguyên lý Lập trình Hướng đối 
 * **Thư viện PDF:** ReportLab / pdfkit
 * **Giao diện (UI):** HTML/CSS, Bootstrap 5
 
-##  5. Hướng dẫn Cài đặt (Installation)
-Yêu cầu máy tính đã cài đặt Python và Git.
 
-1. Clone kho lưu trữ này về máy:
-   ```bash
-   git clone [https://github.com/your-username/b2b-quotemaster.git](https://github.com/your-username/b2b-quotemaster.git)
