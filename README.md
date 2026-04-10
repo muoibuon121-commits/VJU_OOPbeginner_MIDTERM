@@ -25,17 +25,15 @@ Tùy chọn phụ (Decorator) để tự động cộng dồn chi phí một cá
 ##  4. Công nghệ Sử dụng (Tech Stack)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-Python_3.10+-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Framework-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Language-Swift_5-F05138?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/IDE-Xcode_15-157AF6?style=flat&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/UI_Framework-SwiftUI-007AFF?style=flat&logo=apple&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-8E8E93?style=flat&logo=apple&logoColor=white" alt="MVVM" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Frontend-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/UI-Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Library-ReportLab_(PDF)-red?style=flat&logo=adobeacrobatreader&logoColor=white" alt="ReportLab" />
+  <img src="https://img.shields.io/badge/Database-Core_Data-4169E1?style=flat&logo=sqlite&logoColor=white" alt="Core Data" />
+  <img src="https://img.shields.io/badge/PDF_Engine-PDFKit-red?style=flat&logo=adobeacrobatreader&logoColor=white" alt="PDFKit" />
+</p>
 </p>
 
 ## 5. Cấu trúc dự án
