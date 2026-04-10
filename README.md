@@ -13,7 +13,6 @@ Trong mô hình kinh doanh B2B, việc lập báo giá thủ công bằng Excel 
 * **Xuất PDF Tự động:** Khởi tạo Hợp đồng/Báo giá định dạng PDF từ template có sẵn chỉ với 1 cú click.
 
 ##  3. Điểm sáng Kỹ thuật & Ứng dụng OOP
-Dự án áp dụng triệt để các nguyên lý Lập trình Hướng đối tượng để giải quyết bài toán nghiệp vụ:
 * **Tính Đóng gói (Encapsulation):** Các thuộc tính nhạy cảm như `__gia_von` được bảo mật nghiêm ngặt ở lớp Backend, nhân viên Sales thao tác trên UI chỉ có thể truy xuất `gia_ban`.
 * **Decorator Design Pattern:** Giải quyết bài toán "Tính giá động". Các dịch vụ gốc (Component) được bọc bởi các Tùy chọn phụ (Decorator) để tự động cộng dồn chi phí một cách linh hoạt mà không cần tạo ra hàng trăm Class thừa thãi.
 
