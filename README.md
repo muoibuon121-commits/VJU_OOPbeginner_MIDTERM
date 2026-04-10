@@ -1,3 +1,4 @@
+# OOP_MIDTERM
 #  B2B QuoteMaster - Hệ thống Tự động hóa Báo giá & Hợp đồng
 
 > Giải pháp số hóa quy trình chốt Sale cho doanh nghiệp SME, loại bỏ sai sót từ Excel và tối ưu hóa tỷ suất lợi nhuận.
