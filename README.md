@@ -18,7 +18,6 @@ Dự án áp dụng triệt để các nguyên lý Lập trình Hướng đối 
 * **Decorator Design Pattern:** Giải quyết bài toán "Tính giá động". Các dịch vụ gốc (Component) được bọc bởi các Tùy chọn phụ (Decorator) để tự động cộng dồn chi phí một cách linh hoạt mà không cần tạo ra hàng trăm Class thừa thãi.
 
 ##  4. Công nghệ Sử dụng (Tech Stack)
-## 🛠 4. Công nghệ Sử dụng (Tech Stack)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Python_3.10+-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
