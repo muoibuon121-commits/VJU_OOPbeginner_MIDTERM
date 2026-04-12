@@ -7,11 +7,119 @@
 Trong mô hình kinh doanh B2B, việc lập báo giá thủ công bằng Excel thường mất nhiều thời gian, dễ sai sót công thức và khó bảo mật giá vốn. **B2B QuoteMaster** ra đời nhằm tự động hóa quy trình này, giúp nhân viên Sales tạo báo giá phức tạp chỉ trong 5 phút với độ chính xác 100%, đồng thời tự động xuất file PDF chuyên nghiệp.
 
 ##  2. Tính năng Cốt lõi
+1. Quản Lý Hóa Đơn
 ```
-- Trình tạo Báo giá Động: Thêm dịch vụ, tùy chọn (add-ons) với giá tiền được tự động nội suy.
-- Bảo vệ Biên độ Lợi nhuận (Margin): Cảnh báo hoặc chặn việc thiết lập mức chiết khấu (Discount) khiến hợp đồng bị lỗ.
-- Quản lý Phiên bản: Lưu trữ lịch sử chỉnh sửa các bản báo giá (V1, V2, V3...).
-- Xuất PDF Tự động: Khởi tạo Hợp đồng/Báo giá định dạng PDF từ template có sẵn chỉ với 1 cú click.
+
+
+
+
+ Tạo, chỉnh sửa, xóa hóa đơn
+
+
+
+ Tính toán tự động: VAT, chiết khấu, tổng tiền
+
+
+
+ Theo dõi trạng thái thanh toán
+
+
+
+ Phát hiện hóa đơn quá hạn
+
+
+
+ Tìm kiếm và lọc hóa đơn
+```
+
+
+
+2. Quản Lý Khách Hàng
+
+
+
+```
+
+ Lưu thông tin chi tiết khách hàng
+
+
+
+ Theo dõi nợ của khách hàng
+
+
+
+ Cảnh báo vượt hạn mức tín dụng
+
+
+
+ Phân loại khách hàng (B2B, B2C, B2G)
+```
+
+
+
+3. Dashboard & Thống Kê
+
+```
+
+
+
+ Tổng doanh thu
+
+
+
+ Tổng chưa thanh toán
+
+
+
+ Số hóa đơn quá hạn
+
+
+
+ Biểu đồ thống kê
+
+```
+
+4. Đồng Bộ Dữ Liệu
+
+
+```
+
+
+ Tự động đồng bộ khi có kết nối mạng
+
+
+
+ Hàng đợi đồng bộ offline
+
+
+
+ Giám sát trạng thái kết nối
+
+
+
+ Tuỳ chỉnh khoảng thời gian đồng bộ
+```
+
+
+5. Cài Đặt & Tùy Chỉnh
+
+
+
+```
+
+ Cấu hình mức VAT mặc định
+
+
+
+ Cấu hình chiết khấu mặc định
+
+
+
+ Quản lý đồng bộ tự động
+
+
+
+ Xuất/import dữ liệu
 ```
 
 ##  3. Điểm sáng Kỹ thuật & Ứng dụng OOP
