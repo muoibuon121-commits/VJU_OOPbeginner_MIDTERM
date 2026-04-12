@@ -9,73 +9,26 @@ Trong mô hình kinh doanh B2B, việc lập báo giá thủ công bằng Excel 
 ##  2. Tính năng Cốt lõi
 1. Quản Lý Hóa Đơn
 ```
-
-
-
-
- Tạo, chỉnh sửa, xóa hóa đơn
-
-
-
- Tính toán tự động: VAT, chiết khấu, tổng tiền
-
-
-
- Theo dõi trạng thái thanh toán
-
-
-
- Phát hiện hóa đơn quá hạn
-
-
-
- Tìm kiếm và lọc hóa đơn
+- Tạo, chỉnh sửa, xóa hóa đơn
+- Tính toán tự động: VAT, chiết khấu, tổng tiền
+- Theo dõi trạng thái thanh toán
+- Phát hiện hóa đơn quá hạn
+- Tìm kiếm và lọc hóa đơn
 ```
-
-
-
 2. Quản Lý Khách Hàng
-
-
-
 ```
-
- Lưu thông tin chi tiết khách hàng
-
-
-
- Theo dõi nợ của khách hàng
-
-
-
- Cảnh báo vượt hạn mức tín dụng
-
-
-
- Phân loại khách hàng (B2B, B2C, B2G)
+- Lưu thông tin chi tiết khách hàng
+- Theo dõi nợ của khách hàng
+- Cảnh báo vượt hạn mức tín dụng
+- Phân loại khách hàng (B2B, B2C, B2G)
 ```
-
-
-
 3. Dashboard & Thống Kê
 
 ```
-
-
-
- Tổng doanh thu
-
-
-
- Tổng chưa thanh toán
-
-
-
- Số hóa đơn quá hạn
-
-
-
- Biểu đồ thống kê
+- Tổng doanh thu
+- Tổng chưa thanh toán
+- Số hóa đơn quá hạn
+- Biểu đồ thống kê
 
 ```
 
@@ -83,51 +36,20 @@ Trong mô hình kinh doanh B2B, việc lập báo giá thủ công bằng Excel 
 
 
 ```
-
-
- Tự động đồng bộ khi có kết nối mạng
-
-
-
- Hàng đợi đồng bộ offline
-
-
-
- Giám sát trạng thái kết nối
-
-
-
- Tuỳ chỉnh khoảng thời gian đồng bộ
+- Tự động đồng bộ khi có kết nối mạng
+- Hàng đợi đồng bộ offline
+- Giám sát trạng thái kết nối
+- Tuỳ chỉnh khoảng thời gian đồng bộ
 ```
 
 
 5. Cài Đặt & Tùy Chỉnh
 
-
-
 ```
-
- Cấu hình mức VAT mặc định
-
-
-
- Cấu hình chiết khấu mặc định
-
-
-
- Quản lý đồng bộ tự động
-
-
-
- Xuất/import dữ liệu
-```
-
-##  3. Điểm sáng Kỹ thuật & Ứng dụng OOP
-```
-- Tính Đóng gói (Encapsulation): Các thuộc tính nhạy cảm như `__gia_von` được bảo mật nghiêm ngặt ở lớp Backend,
-nhân viên Sales thao tác trên UI chỉ có thể truy xuất `gia_ban`.
-- Decorator Design Pattern: Giải quyết bài toán "Tính giá động". Các dịch vụ gốc (Component) được bọc bởi các
-Tùy chọn phụ (Decorator) để tự động cộng dồn chi phí một cách linh hoạt mà không cần tạo ra hàng trăm Class thừa thãi.
+- Cấu hình mức VAT mặc định
+- Cấu hình chiết khấu mặc định
+- Quản lý đồng bộ tự động
+- Xuất/import dữ liệu
 ```
 
 ##  4. Công nghệ Sử dụng (Tech Stack)
