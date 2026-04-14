@@ -1,3 +1,2 @@
-# B2B Invoice Manager
+<img width="128" height="128" alt="icon_128" src="https://github.com/user-attachments/assets/e0d73cd4-490e-4b77-a225-dd745bf83d33" />
 
-Tài liệu và mã nguồn được tổ chức theo tầng. Xem [Documentation/README.md](Documentation/README.md) và [Documentation/SETUP_GUIDE.md](Documentation/SETUP_GUIDE.md).
