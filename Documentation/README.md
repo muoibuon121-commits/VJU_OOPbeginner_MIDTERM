@@ -1,4 +1,7 @@
-# B2B Invoice Manager - macOS Desktop App
+<img width="128" height="128" alt="icon_128" src="https://github.com/user-attachments/assets/e0d73cd4-490e-4b77-a225-dd745bf83d33" />
+
+
+#Muoi - B2B Invoice Manager - macOS Desktop App
 
 Ứng dụng quản lý hóa đơn B2B cho macOS, được tối ưu hóa cho máy tính bàn.
 
